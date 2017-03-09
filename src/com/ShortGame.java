@@ -118,7 +118,7 @@ public class ShortGame extends Canvas implements Runnable {
 			thread.join();
 		} catch (InterruptedException e) {
 			e.printStackTrace();
-		}
+		} 
 	}
 	/*
 	* Method Description: Main method for creating the game ShortGame object, creating the game frame and passing in arguments for
