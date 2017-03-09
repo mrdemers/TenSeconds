@@ -1,5 +1,5 @@
 /*
- * Class Description: 
+ * Class Description: This class is for taking the Game object and utilizing its logic components and instances to control the game flow
  */
 package com;
 
